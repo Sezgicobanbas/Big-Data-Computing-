@@ -1,1 +1,2 @@
 # Big-Data-Computing-
+This project leverages Apache Spark for scalable big data computing, implementing stream processing, outlier detection, and clustering. It includes reservoir sampling and sticky sampling for frequent item detection, Euclidean-based outlier detection, and Farthest-First Traversal (FFT) for clustering. Optimized for performance, it efficiently processes large datasets in distributed environments.
